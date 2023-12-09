@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋 I'm Mihir Inamdar, a passionate Machine Learning Research Fellow with a focus on innovative AI research and applications.
 
-![Profile Picture](url_to_your_profile_picture.jpg) <!-- Add your profile picture URL here -->
+![Profile Picture](https://avatars.githubusercontent.com/u/39341893?v=4) <!-- Add your profile picture URL here -->
 
 ## Overview
 

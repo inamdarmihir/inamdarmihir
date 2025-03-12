@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/39341893?v=4" alt="Profile Picture" width="200" style="border-radius:50%;" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=inamdarmihir&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/inamdarmihir">
+    <img src="https://github-readme-stats.vercel.app/api?username=inamdarmihir&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
 </div>
 
 ## 🚀 About Me
@@ -15,7 +17,14 @@ I'm a passionate Machine Learning Research Fellow with a focus on innovative AI 
 - 🔭 Currently working on advanced machine learning projects and AI applications
 - 🌱 Constantly learning and exploring new technologies and methodologies
 - 💬 Specialized in machine learning, natural language processing, and computer vision
-- 📫 How to reach me: [mihir4u@hotmail.com](mailto:mihir4u@hotmail.com)
+
+## 🏆 Research Interests
+
+- 🧠 **Large Language Models (LLMs)**: Fine-tuning and optimization of LLMs for specific domains
+- 👁️ **Computer Vision Applications**: Object detection, image segmentation, and visual QA systems
+- 🔊 **Speech and Audio Processing**: Speech recognition and lip synchronization technologies
+- 📄 **Document AI**: Document understanding and visual document question answering
+- 🤖 **Multi-Agent AI Systems**: Collaborative AI frameworks and agent-based modeling
 
 ## 👨‍💼 Professional Experience
 
@@ -76,16 +85,10 @@ Intent Recognition with XLM-RoBERTa fine-tuned on Amazon Science dataset.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamdarmihir&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/inamdarmihir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamdarmihir&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
-
-## 🏆 Research Interests
-
-- 🧠 Large Language Models (LLMs)
-- 👁️ Computer Vision Applications
-- 🔊 Speech and Audio Processing
-- 📄 Document AI
-- 🤖 Multi-Agent AI Systems
 
 ## 📫 Connect With Me
 
@@ -96,8 +99,8 @@ Intent Recognition with XLM-RoBERTa fine-tuned on Amazon Science dataset.
   <a href="https://mihirinamdar.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:mihir4u@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://medium.com/@inamdarmihir" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
@@ -106,7 +109,7 @@ Intent Recognition with XLM-RoBERTa fine-tuned on Amazon Science dataset.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=inamdarmihir&color=blueviolet&style=flat-square" alt="Profile Views" />
   <br><br>
-  <img src="https://media.giphy.com/media/Y1oI9q8YFwG2q/giphy.gif" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/Y1oI9q8YFwG2q/giphy.gif" alt="Coding GIF" width="500" />
 </div>
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 🚀 
